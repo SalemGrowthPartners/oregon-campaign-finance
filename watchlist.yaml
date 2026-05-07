@@ -1,0 +1,343 @@
+# Oregon Campaign Finance Watchlist — Salem / Keizer / Marion & Polk Counties
+# Rebuilt from ORESTAR transaction data (Jan 2025–May 2026) + candidate research.
+# Last updated: May 2026
+#
+# To add a race: search ORESTAR for any transaction by the committee, note the
+# "Filer Id" in the XLS export (column 11), and add an entry below.
+#
+# NOTES:
+#   - Oregon AG and Secretary of State are NOT on the 2026 ballot; both won
+#     4-year terms in 2024 (Rayfield / Read). Next elections: 2028.
+#   - Oregon Labor Commissioner (Stephenson vs. Lynch) IS on the 2026 ballot
+#     but Stephenson's committee had no ORESTAR transactions in the fetch window;
+#     add manually if needed.
+#   - Candidates marked "# unverified" had no named committee in ORESTAR —
+#     the ID is inferred from a first-name-only committee; confirm before relying.
+#   - Some candidates (Nalley, Farrington, Steininger, Welsh, Wright, Pressey,
+#     Milligan) had no ORESTAR committee activity in the fetch window; look up
+#     manually if they become financially active.
+
+races:
+
+  # ── STATEWIDE ──────────────────────────────────────────────────────────────
+
+  - id: "4792"
+    name: "Oregon Governor"
+    candidate: "Tina Kotek"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: statewide
+
+  - id: "19050"
+    name: "Oregon Governor"
+    candidate: "Christine Drazan"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: statewide
+
+  - id: "24693"
+    name: "Oregon Governor"
+    candidate: "Chris Dudley"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: statewide
+
+  - id: "21555"
+    name: "Oregon Governor"
+    candidate: "Paul Romero"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: statewide
+
+  - id: "20220"
+    name: "Oregon Governor"
+    candidate: "Danielle Bethell"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: statewide
+
+  # ── LEGISLATIVE ────────────────────────────────────────────────────────────
+
+  # Senate District 10 — West Salem, Dallas, Polk County east
+  # Deb Patterson (D incumbent) vs. Angela Plowhead (R, former OR GOP vice chair)
+  - id: "18821"
+    name: "Oregon Senate District 10"
+    candidate: "Deb Patterson"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  - id: "22280"
+    name: "Oregon Senate District 10"
+    candidate: "Angela Plowhead"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # Senate District 11 — Keizer, North Salem
+  # Open seat: Kim Thatcher (R) is term-limited.
+  # D primary: Alonso Leon vs. Stapleton. R: Tracy Cramer.
+  - id: "17643"
+    name: "Oregon Senate District 11"
+    candidate: "Teresa Alonso Leon"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  - id: "20287"
+    name: "Oregon Senate District 11"
+    candidate: "Virginia Stapleton"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  - id: "22032"
+    name: "Oregon Senate District 11"
+    candidate: "Tracy Cramer"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # House District 17 — East Salem, Turner, Aumsville, Stayton (Marion/Linn)
+  # R primary only (no D filed). Nalley and Farrington had no ORESTAR committee.
+  - id: "21699"
+    name: "Oregon House District 17"
+    candidate: "Beth Jones"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # House District 18 — Silverton, Hubbard, Mt. Angel (Marion County south)
+  # R primary only (no D filed).
+  - id: "24848"
+    name: "Oregon House District 18"
+    candidate: "Bryan Starr"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  - id: "24790"
+    name: "Oregon House District 18"
+    candidate: "Ben Fisher"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  - id: "24855"  # unverified: "Amanda for Oregon" — likely Amanda Staehely
+    name: "Oregon House District 18"
+    candidate: "Amanda Staehely"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # House District 19 — South Salem
+  - id: "16690"
+    name: "Oregon House District 19"
+    candidate: "Tom Andersen"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # House District 20 — West Salem, Monmouth, Independence (Polk County)
+  # No R candidate filed.
+  - id: "16508"
+    name: "Oregon House District 20"
+    candidate: "Paul Evans"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # House District 21 — North Salem, Keizer
+  # Kevin Mannix (R incumbent) vs. Michael Welsh (D, no ORESTAR committee found).
+  - id: "21839"
+    name: "Oregon House District 21"
+    candidate: "Kevin Mannix"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # House District 22 — Woodburn, NE Marion County
+  - id: "23140"
+    name: "Oregon House District 22"
+    candidate: "Lesly Munoz"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  - id: "24273"
+    name: "Oregon House District 22"
+    candidate: "Noemi Legaspi"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # House District 23 — Polk County / Yamhill County
+  # Anna Scharf (R incumbent) vs. Kriss Wright (D, no ORESTAR committee found).
+  - id: "21575"
+    name: "Oregon House District 23"
+    candidate: "Anna Scharf"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # ── LEGISLATIVE PACs ───────────────────────────────────────────────────────
+
+  # House Democrats caucus accumulation PAC.
+  # Received $310K+ from 11 House member committees (Apr–May 2026) including
+  # $7K from watchlist HD 19 Rep. Tom Andersen. Expected to deploy into
+  # competitive Marion/Polk House races (HD 18, 21, 22).
+  - id: "1524"
+    name: "Future PAC (House Democrats Caucus)"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # Issue PAC; receives contributions from candidate/legislative committees.
+  # Related to a gas tax ballot measure. Track for candidate-to-PAC flows.
+  - id: "24763"
+    name: "Right to Vote on the Gas Tax PAC"
+    cycle: 2026
+    jurisdiction: Oregon
+    tier: legislative
+
+  # ── LOCAL ──────────────────────────────────────────────────────────────────
+
+  # Marion County Commissioner — Position 1
+  - id: "5089"
+    name: "Marion County Commissioner Position 1"
+    candidate: "Kevin Cameron"
+    cycle: 2026
+    jurisdiction: "Marion County"
+    tier: local
+
+  - id: "24563"
+    name: "Marion County Commissioner Position 1"
+    candidate: "Sara Duncan"
+    cycle: 2026
+    jurisdiction: "Marion County"
+    tier: local
+
+  # Marion County Commissioner — Position 2
+  # Maria Hinojos Pressey (D) had no ORESTAR committee found.
+  - id: "18837"
+    name: "Marion County Commissioner Position 2"
+    candidate: "Colm Willis"
+    cycle: 2026
+    jurisdiction: "Marion County"
+    tier: local
+
+  # Polk County Commissioner — Position 2
+  - id: "24471"
+    name: "Polk County Commissioner Position 2"
+    candidate: "Roxanne Beltz"
+    cycle: 2026
+    jurisdiction: "Polk County"
+    tier: local
+
+  - id: "24463"
+    name: "Polk County Commissioner Position 2"
+    candidate: "John Swanson"
+    cycle: 2026
+    jurisdiction: "Polk County"
+    tier: local
+
+  # Polk County Commissioner — Position 3
+  # Incumbent Gordon vs. Barrientos (Dallas City Councilor), Milligan, and Adams.
+  # Milligan and Adams had no ORESTAR committee found.
+  - id: "21770"
+    name: "Polk County Commissioner Position 3"
+    candidate: "Jeremy Gordon"
+    cycle: 2026
+    jurisdiction: "Polk County"
+    tier: local
+
+  - id: "24536"
+    name: "Polk County Commissioner Position 3"
+    candidate: "Carlos Barrientos"
+    cycle: 2026
+    jurisdiction: "Polk County"
+    tier: local
+
+  # Salem Mayor
+  - id: "23277"
+    name: "Salem Mayor"
+    candidate: "Julie Hoy"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  - id: "20203"
+    name: "Salem Mayor"
+    candidate: "Vanessa Nordyke"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  # Salem City Council — Ward 2
+  - id: "22023"
+    name: "Salem City Council Ward 2"
+    candidate: "Linda Nishioka"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  - id: "24537"
+    name: "Salem City Council Ward 2"
+    candidate: "Manny Martinez"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  # Salem City Council — Ward 4
+  - id: "24477"
+    name: "Salem City Council Ward 4"
+    candidate: "Deanna Gwyn"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  - id: "24665"
+    name: "Salem City Council Ward 4"
+    candidate: "Dave Inbody"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  # Salem City Council — Ward 6
+  - id: "24074"
+    name: "Salem City Council Ward 6"
+    candidate: "Mai Vang"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  - id: "24472"
+    name: "Salem City Council Ward 6"
+    candidate: "Betsy Vega"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  # Salem City Council — Ward 8
+  - id: "16291"
+    name: "Salem City Council Ward 8"
+    candidate: "Micki Varney"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+  - id: "24595"
+    name: "Salem City Council Ward 8"
+    candidate: "Chris Cummings"
+    cycle: 2026
+    jurisdiction: Salem
+    tier: local
+
+# ---------------------------------------------------------------------------
+# Alert thresholds — used by the pre-analysis layer
+# ---------------------------------------------------------------------------
+thresholds:
+  large_donation: 5000
+  large_expenditure: 10000
+  employer_cluster_count: 3
+  late_filing_days: 25

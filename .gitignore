@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Local dev outputs — committed versions are in the repo root
+summary.txt
+
+# Editor
+.DS_Store
+*.swp
+
+# Claude Code session memory — local only
+.claude/
+
+# campaign_finance.db is intentionally tracked — it's the accumulated dataset
+# Exclude any local test/scratch databases
+*_test.db
+scratch_*.db

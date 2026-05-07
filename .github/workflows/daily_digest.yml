@@ -1,0 +1,112 @@
+name: Daily Campaign Finance Digest
+
+on:
+  schedule:
+    # 2pm UTC = 7am PDT / 6am PST — runs after overnight ORESTAR filings settle
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'Window size in days (default: 7)'
+        required: false
+        default: '7'
+      from_date:
+        description: 'Start date MM/DD/YYYY — overrides days'
+        required: false
+      to_date:
+        description: 'End date MM/DD/YYYY — overrides days'
+        required: false
+
+permissions:
+  contents: write   # needed to commit updated DB back to repo
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # -----------------------------------------------------------------------
+      # Collect — fetch new transactions from ORESTAR into SQLite
+      # -----------------------------------------------------------------------
+      - name: Collect data
+        run: |
+          if [ -n "${{ github.event.inputs.from_date }}" ]; then
+            python collector.py \
+              --from "${{ github.event.inputs.from_date }}" \
+              --to   "${{ github.event.inputs.to_date }}"
+          else
+            python collector.py --days "${{ github.event.inputs.days || '7' }}"
+          fi
+
+      # -----------------------------------------------------------------------
+      # Analyze + digest — call Claude API, write digest.md
+      # -----------------------------------------------------------------------
+      - name: Generate digest
+        run: |
+          if [ -n "${{ github.event.inputs.from_date }}" ]; then
+            python digest.py \
+              --from   "${{ github.event.inputs.from_date }}" \
+              --to     "${{ github.event.inputs.to_date }}" \
+              --output digest.md
+          else
+            python digest.py \
+              --days   "${{ github.event.inputs.days || '7' }}" \
+              --output digest.md
+          fi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      # -----------------------------------------------------------------------
+      # Persist — commit updated DB and digest back to the repo
+      # -----------------------------------------------------------------------
+      - name: Commit data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add campaign_finance.db digest.md
+          git diff --staged --quiet \
+            || git commit -m "data: daily update $(date -u +%Y-%m-%d)"
+          git push
+
+      # -----------------------------------------------------------------------
+      # Archive digest as a downloadable artifact (always, even if email skipped)
+      # -----------------------------------------------------------------------
+      - name: Upload digest artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-${{ github.run_id }}
+          path: digest.md
+          retention-days: 90
+
+      # -----------------------------------------------------------------------
+      # Email — requires secrets: SMTP_USERNAME, SMTP_PASSWORD, DIGEST_RECIPIENTS
+      # Set SMTP_SERVER / SMTP_PORT to override the Gmail defaults.
+      # Leave these secrets unset to skip email delivery silently.
+      # -----------------------------------------------------------------------
+      - name: Send digest email
+        if: env.SMTP_USERNAME != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER || 'smtp.gmail.com' }}
+          server_port: ${{ secrets.SMTP_PORT || 587 }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: ${{ env.EMAIL_SUBJECT }}
+          body: file://digest.md
+          to: ${{ secrets.DIGEST_RECIPIENTS }}
+          from: Oregon CF Digest <${{ secrets.SMTP_USERNAME }}>
+          content_type: text/plain
+        env:
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          EMAIL_SUBJECT: >-
+            Oregon Campaign Finance Digest — ${{ github.run_id }}
