@@ -1,84 +1,89 @@
 ---
-### OREGON CAMPAIGN FINANCE — Marion County / Polk County / Salem — Apr 7, 2026 – May 7, 2026
+### OREGON CAMPAIGN FINANCE — Marion County / Polk County / Salem — Apr 30, 2026 – May 7, 2026
 
-**Salem Mayor Julie Hoy pulled in $34,750 — including a combined $21,800 from the Oregon Realtors PAC — and routed nearly 90% of her spending to a single consultant, dwarfing other local money movement this period.**
+**The Oregon Realtors PAC dropped $21,800 into Salem Mayor Julie Hoy's campaign in a single week, fueling a near-total spending pipeline to one consultant — PNW Strategies — that now accounts for 89% of her burn.**
 
 ---
 
 #### 🏛 Statewide
 
 **💰 Contributions**
-- Friends of Christine Drazan: $165,000 from Don H. Jones, Jr. (Spartan Management LLC, Ashland) — single largest watchlist contribution this period; pairs with $50K from Salem-based K & E Excavating and $50K from Portland's Gunderson Marine to push Drazan's monthly haul past $530K.
-- Friends of Tina Kotek: $100,000 from the Oregon Nurses PAC and $50,000 from out-of-state Centene Management (St. Louis) — institutional health-sector money lining up early behind the incumbent.
-- Dudley for Oregon: at least seven $10K checks from individuals (including out-of-state donors in Wyoming) plus $10K from Breeze Financial Group — Dudley is raising less than Drazan but spending more, burning $434K against $113K raised.
+- Friends of Christine Drazan: $165,000 from Don H. Jones Jr. (Spartan Management LLC, Ashland) — single largest watchlist gift this period; pairs with $50K from Gunderson Marine and $10K each from Knife River and Fred Wahl Marine for a heavy maritime/construction tilt.
+- Friends of Tina Kotek: $50,000 from Centene Management (St. Louis, MO) — out-of-state managed-care money into the incumbent's account; notable given Oregon Health Plan contracting exposure.
+- Dudley for Oregon: $53K raised including $10K from SN Investment Properties and $10K from Cow Creek Band of Umpqua Tribe (which also gave $10K to Kotek — the tribe is hedging).
 
 **💸 Expenditures**
-- Friends of Christine Drazan: $277,539 to Strategic Media Services and two $48,025 buys with Majority Strategies — heavy paid-media phase has begun.
-- Dudley for Oregon: $216,831 to Ax Media plus two $50K payments to Axiom Strategies — campaign is spending nearly 4× what it raised this month, signaling reserve drawdown.
+- Friends of Christine Drazan: $277,539 to Strategic Media Services — TV/media buy dwarfs everything else this period.
+- Dudley for Oregon: $100,000 split between Digital Marketing Group ($50K) and Axiom Strategies ($50K) — Dudley is spending faster ($152K) than raising ($53K).
 
 ---
 
 #### 🗳 Legislative
 
 **💰 Contributions**
-- **SD 11 / Stapleton: $30,000 in PAC money** — $20K from Oregon Nurses PAC and $10K from Oregon Trial Lawyers PAC. Two of the largest labor/plaintiff-bar PACs in the state are picking sides early in this Marion County swing seat.
-- HD 17 / Beth Jones (R): $8,951 across two checks from Sen. Fred Girod's committee, plus $2,500 from Oregon Soft Drink PAC — a sitting GOP senator's leadership account is the dominant funder of this Salem-area House race.
-- HD 18 / Bryan Starr (R): $10,000 from the Starr Leadership Fund (his own affiliated PAC) plus $1,000 from Oregon Soft Drink PAC; opponent Amanda Staehely (R) drew $5,000 from Oregon Nurseries PAC — a contested Republican primary in HD 18 visible in PAC alignment.
-- HD 20 / Paul Evans: $5,272 from Oregon Trial Lawyers PAC, $2,500 each from Corrections PAC and Oregon Soft Drink PAC, $1,000 from PERS Retirees PAC — a typical incumbent's institutional coalition.
-
-**Caucus accumulation watch:** Future PAC (House Democrats' caucus PAC) took in **$310,500 from 11 Democratic House member committees** this period, led by $155K from Rep. Ben Bowman and $50K from Speaker Julie Fahey. Watchlist contributor: HD 19's Tom Andersen sent $7,000 to Future PAC. Expect this pool to flow back into competitive Marion/Polk House races (HD 18, 21, 22) as the general approaches.
+- **Future PAC, House Builders (House Dems caucus): $80,500 from 7 sitting/candidate committees in one week** — Nathanson ($25K), Chotzen ($17K), Sarah 4 OR House ($14K), Ricki Ruiz ($9K), watchlist member Tom Andersen ($7K), Jules Walters ($7K), Sue Rieke Smith ($1.5K). Statewide caucus restocking ahead of deployment; Andersen's contribution suggests HD-19 is considered relatively safe as Future PAC redirects funds to tighter races.
+- **Right to Vote on the Gas Tax PAC: $19,240 from two candidate committees** (Ben West $16,830; Max Sherman $2,410) plus $9,387 from Taxpayers Association of Oregon — the anti-gas-tax referendum vehicle is now drawing money from sitting candidate accounts, an unusual pass-through pattern worth tracing.
+- SD-11 Stapleton: $10,000 from Oregon Trial Lawyers Association PAC — OTLA picking the Dem in the open Polk/Yamhill swing seat; same PAC also gave $5,272 to HD-20 Paul Evans.
+- HD-18 Bryan Starr: $10,000 across two transactions from his own Starr Leadership Fund, plus $1,000 from Oregon Soft Drink PAC — the leadership-PAC-to-candidate move accounts for nearly all of Starr's $12,500 week.
 
 **💸 Expenditures**
-- Amanda for Oregon (HD 18): $18,492 to ColdSpark and $11,466 to Minuteman Press — Staehely is outspending her primary opponent Starr ~$30K to $4 on mail and digital.
-- Friends of Teresa Alonso Leon (SD 11): $15,000 to Conexion Political LLC — notable single vendor for Spanish-language outreach in a district with significant Latino population.
-- Elect Virginia Stapleton (SD 11): $9,332 to Mission Control, Inc. — digital ad spend ramping alongside the new PAC infusion.
+- Friends of Teresa Alonso Leon (SD-11): $15,000 to Conexion Political LLC — Latino-voter outreach spending in a district where Stapleton is the institutional Dem pick; Alonso Leon is outspending her ($21.8K vs. $13K) despite raising less.
+- Amanda for Oregon (HD-18 Staehely): $18,492 to ColdSpark — Pennsylvania-based GOP digital firm; Staehely spent 5x what she raised this week.
+- Elect Virginia Stapleton: $9,332 to Mission Control, Inc. — direct mail launch.
 
 ---
 
 #### 🏘 Local
 
 **💰 Contributions**
-- **Salem Mayor / Julie Hoy: $13,000 + $8,800 = $21,800 from Oregon Realtors PAC**, plus $2,000 from Marion Polk First PAC — Realtors are now Hoy's single largest funder, and Marion Polk First (itself recently fed $20K by Marion+Polk First Action) is layering on top. Total raised: $34,750.
-- Salem City Council Ward 4 / Deanna Gwyn: $7,225 across just 3 transactions — high average donation size relative to ward-level norms; worth checking who the donors are.
-- Polk County Commissioner Pos. 2 / John Swanson: $7,029 across 13 transactions and outspending his haul more than 2-to-1 ($15,984) — an aggressive late push in the Polk race.
-- Salem City Council Ward 8 / Chris Cummings: $3,925 — modest but the leading Ward 8 fundraiser this period (vs. Varney's $1,725).
-- Salem Mayor / Vanessa Nordyke: $3,565 raised against $17,560 spent — Nordyke is spending reserves heavily on direct mail while Hoy is out-raising her roughly 10-to-1 this month.
+- **Salem Mayor — Julie Hoy: $21,800 from Oregon Realtors PAC** ($13,000 + $8,800 in two filings), plus $2,000 from Marion Polk First PAC and $1,000 from Janet Cowell for Mayor — Realtors are fully committed to Hoy's challenge; combined PAC money is 72% of her $34.5K week.
+- Salem City Council Ward 4 — Deanna Gwyn: $7,225 across just 3 transactions — high average gift size ($2,400+); donor identities worth pulling.
+- Polk County Commissioner Pos. 2 — John Swanson: $5,469 across 9 transactions, but spending $13,727 — burning down a previously-built warchest in the final stretch.
+- Salem Council Ward 8 — Chris Cummings: $3,925 raised vs. essentially zero spent ($10) — building reserves; contrast with opponent Micki Varney at $1,725.
+- Salem Mayor — Vanessa Nordyke: $3,390 from 13 small donors — grassroots profile, but she's spending $17.5K against Hoy's $34K.
 
 **💸 Expenditures**
-- Friends of Julie Hoy: $15,525 + $14,600 = **$30,125 to PNW Strategies** (88% of all Hoy spending this period) — vendor concentration flag; PNW Strategies is effectively running the campaign.
-- Vanessa Nordyke for Mayor: $11,775 to Eagle Mailing Service — Nordyke's largest expense, signaling a mail-heavy strategy heading into the primary.
-- Committee to Elect John Swanson: $10,214 to Electronic Management Corp (EMCO), 64% of his spending — likely voter contact / data services.
+- **Friends of Julie Hoy: $30,125 to PNW Strategies across two payments ($15,525 + $14,600)** — 89% vendor concentration; effectively the entire campaign is being run through one consultancy.
+- Vanessa Nordyke for Mayor: $11,775 to Eagle Mailing Service — mail program launch, the bulk of her spend.
+- Committee to Elect John Swanson: $8,163 to Electronic Management Corp (EMCO) — printing/mail vendor; biggest local non-mayoral expenditure this week.
+- Dave for Salem (Ward 4 Inbody): $4,703, 100% to Eagle Mailing Service — full-mail strategy on a tiny ($85) fundraising week.
 
 ---
 
 #### 🚩 Flags & Anomalies
 
-**Large donations (≥$5K) into watchlist races:**
-- $165K Don H. Jones Jr. → Drazan; $100K Oregon Nurses PAC → Kotek; $50K each from Gunderson Marine, Centene (MO), and K & E Excavating (Salem) → governor candidates; $25K each from Rehab Specialists LLC and Scott Parrish (A-dec) → Drazan; $13K Oregon Realtors PAC → Hoy.
+**Large donations (≥$5,000) — local/legislative highlights**
+- $25,000 Nathanson PAC → Future PAC; $17,000 Chotzen → Future PAC; $15,000 Boshart Davis → Drazan; $13,000 Oregon Realtors → Hoy.
+- Statewide tier: $165K Jones → Drazan; $50K Gunderson Marine → Drazan; $50K Centene → Kotek; $65K DGA → Democratic Party of Oregon.
+- Marion+Polk First Action funneled $35,000 to Marion Polk First PAC in two transactions ($20K + $15K) — local-business vehicle replenishing its PAC, which then gave $2,000 to Hoy.
 
-**Out-of-state contributions of note (watchlist):**
-- $50K Centene Management (St. Louis) → Kotek; $10K Sundt Construction (Tucson) and $5K William Furman (NV) → Drazan; $10K Edmond Labbe (WY) and $5K Robyn Dillon (WA) → Dudley.
+**Out-of-state ≥$1,000**
+- $50,000 Centene (St. Louis) → Kotek; $20,000 Sanjay Natarajan (Naples, FL) → Tobias Read; $12,500 Anesthesiologist PAC (IL) → Tammy for Oregon; $5,000 Robyn Dillon (Vancouver, WA) → Dudley; $2,000 Davita (Federal Way, WA) → Mannix PAC; multiple $2,000 individual gifts to Kotek from WA/IL.
 
-**Late filers:** Two filings from **Friends of Steve Callaway** are flagged at 367 and 398 days late ($1,000 contribution from Dick's Hillsboro Honda; $500 to Tweed Strategies LLC) — well outside Oregon's 30-day window. Multiple Josephine County GOP Central Committee items 100+ days late, and two Deschutes Defend Our Democracy entries at 162–166 days late.
+**Vendor concentration**
+- PNW Strategies = 89% of Friends of Julie Hoy spend ($30,125 / $33,981).
+- Eagle Mailing Service = 100% of Dave Inbody's spend ($4,700 / $4,703).
+- Hunch Theory = 67% of Kellie Torres for Portland.
 
-**Vendor concentration:**
-- 88% of Hoy's spend → PNW Strategies; 76% of Kotek's → ADP (payroll); 100% of Dave Inbody's (Ward 4) → Eagle Mailing Service; 64% of Swanson's (Polk Pos. 2) → EMCO.
+**Employer clusters**
+- 8 donors from Premiere Property Group LLC → Oregon Realtors PAC ($1,651) — feeder pipeline behind the same PAC now funding Hoy.
+- 3 donors from eXp Realty → Oregon Realtors PAC ($1,053).
+- 7 donors from SEIU Local 503 OPEU → Citizen Action for Political Education.
 
-**Employer clusters:** 8 donors from Premiere Property Group LLC ($1,651) → Oregon Realtors PAC; 3 donors from eXp Realty ($1,053) → Oregon Realtors PAC — bundling pattern feeding the same PAC that just sent Hoy $21,800.
-
-**Large non-individual contributions:** See above; concentration of caucus/leadership PAC and trade-association money is the dominant pattern this period.
+**Late filers (≥25 days)**
+- Most egregious: Clackamas Strong filed a Feb 2024 transaction on May 4, 2026 (818-day lag).
+- Josephine County Republican Central Committee: $7,093 Bridgeview Press expenditure, 101-day lag; $3,006 KAJO/KLDR, 134-day lag — pattern of late filing on a single committee.
+- Several Deschutes Defend Our Democracy Coalition contributions filed 90–187 days late.
 
 ---
 
 #### 🧵 Threads to Pull
 
-1. **Hoy's Realtor pipeline.** Two same-day Oregon Realtors PAC checks ($13K + $8,800) plus a $2K Marion Polk First PAC contribution add up to nearly two-thirds of Hoy's monthly raise. Combined with a Premiere Property Group / eXp Realty bundling pattern feeding the Realtors PAC, this is a coordinated industry play worth a standalone story — and a question for Hoy on land-use and short-term-rental positioning.
-2. **PNW Strategies' role in Salem politics.** $30,125 of Hoy's $39,539 in spending went to one consultancy. Who are the principals, what services are itemized, and what other Marion/Polk clients does PNW Strategies hold this cycle?
-3. **Future PAC's $310K war chest and HD 18.** With Bowman, Fahey, Nathanson and other House Dems collectively dumping $310K into Future PAC, track whether independent expenditures land in HD 18 (Staehely vs. Fisher on the D side, with Starr on the R side) or HD 22 (Munoz/Legaspi). Stapleton's $30K in direct PAC money in SD 11 suggests the caucus has already prioritized that seat.
+1. **Hoy's PNW Strategies pipeline.** $30K to one vendor in seven days, plus $21,800 from the Realtors PAC, means nearly every dollar Hoy is raising flows directly to PNW. Pull PNW's other Oregon clients and subcontractor disclosures — readers deserve to know whether this is media buy, consulting fees, or both.
+2. **The Realtors-to-Hoy machine.** Cross-reference the eight Premiere Property Group donors to the Oregon Realtors PAC against Hoy's individual donor list — and ask whether Marion Polk First PAC ($2,000 to Hoy, $35,000 incoming this week from Marion+Polk First Action) is acting as a coordinated local-business conduit.
+3. **Right to Vote on the Gas Tax PAC's candidate-committee funding.** Ben West for Oregon transferred $16,830 and Max Sherman transferred $2,410 — sitting/former candidate committees pushing money into a transportation referendum vehicle is unusual. Who organized it, and what races does the gas-tax fight intersect locally (HD-19, HD-21, SD-10/11)?
 
 ---
 
 #### ⚙️ Data Notes
-- Transaction-vs.-filed-date lag is up to 30 days outside the 6-week pre-election window, 7 days within it. Some late-April spending may not yet be filed.
-- "Oregon Statewide — Dudley for Oregon" appears as an unspecific race tag on several Dudley transactions; treated here as gubernatorial.
-- Future PAC, Myrna for Oregon, Tammy for Oregon, and Right to Vote on the Gas Tax PAC are not currently on the watchlist but are accumulating significant committee-to-committee money relevant to legislative coverage; recommend addition.
+We are inside the 6-week pre-election filing window, so the legal lag is 7 days, not 30 — yet several committees are filing transactions with 60–800+ day lags (see late filers). Transaction dates may precede filed dates by up to a week even for compliant committees, so this digest may understate cumulative totals once trailing filings post. The Future PAC accumulation total ($80,500) reflects only contributions filed this week and will likely grow. Two separate spellings appear for Cow Creek Band/Bank of Umpqua Tribe in ORESTAR data — treated as the same entity here.
