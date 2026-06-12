@@ -1,94 +1,82 @@
 ---
-### OREGON CAMPAIGN FINANCE — Marion County / Polk County / Salem — May 3, 2026 – May 10, 2026
+### OREGON CAMPAIGN FINANCE — Marion County / Polk County / Salem — Jun 5, 2026 – Jun 12, 2026
 
-**Salem Mayor Julie Hoy hauled in $34,375 this week — nearly 80% of it from PACs, with the Oregon Realtors PAC alone delivering $21,800 across two transactions — making her the dominant local money story heading into the May election.**
+**Marion County Commissioner candidate Colm Willis posted the strongest local fundraising week, pulling in $4,150 — including a $1,000 check from Willamette Valley Vineyards — while two Portland-based Latino political committees pumped $3,500 into Lesly Munoz's House District 22 bid.**
 
 ---
 
 #### 🏛 Statewide
 
 **💰 Contributions**
-- Friends of Christine Drazan: $165,000 from Don H. Jones, Jr. (Spartan Management LLC, Ashland) — a single-donor six-figure individual gift, exceptional even by Oregon's no-limit standard.
-- Friends of Tina Kotek: $50,000 from Centene Management Company (St. Louis, MO) — out-of-state Medicaid managed-care money to the incumbent governor.
-- Drazan also pulled $50K from Gunderson Marine (Portland), $25K from the Idaho-based Wilson Joint Trust, and $45K aggregated from three Republican legislator committees (Boshart Davis, Bobby Levy).
+- Friends of Christine Drazan: $10,000 from Brent Hutchings (North River Boats, Portland) — single largest watchlist contribution of the period, pushing Drazan's weekly haul past $35K.
+- Friends of Christine Drazan: $8,000 from Karla Chambers (Stahlbush Farms, Corvallis) — ag-sector money continues to flow heavily to the Republican gubernatorial campaign.
+- Friends of Christine Drazan: $3,000 from Chapin Dehydrating LLC (Salem) — a rare large in-jurisdiction statewide donation worth flagging for local readers.
 
 **💸 Expenditures**
-- Friends of Christine Drazan: $277,539 to Strategic Media Services — single largest watchlist expenditure of the period; broadcast/media buy ramping for the primary.
-- Dudley for Oregon: $100,000 split evenly between Axiom Strategies and Digital Marketing Group on consecutive days — a late entrant moving fast.
+- Friends of Christine Drazan: $2,248 to Mountain View Consulting for travel — campaign is burning cash on candidate logistics rather than media at this stage.
 
 ---
 
 #### 🗳 Legislative
 
 **💰 Contributions**
-- **Future PAC, House Builders (House Dems caucus): $58,000 accumulated from 5 sitting/candidate committees** — Nancy Nathanson ($25K), Sarah 4 OR House ($14K), Jules Walters ($7K), April Dobson ($7K), Thuy Tran ($5K). Geography skews Willamette Valley/Corvallis-Eugene; expect deployment into HD-20 (Evans), HD-22 (Munoz/Legaspi), and other contested mid-valley seats including Marion/Polk-area races.
-- **Bryan Starr for Oregon (HD-18): $11,000 total — $10K from his own Starr Leadership Fund** plus $1K from Oregon Soft Drink PAC. The leadership-fund self-transfer is the bulk of his week's intake; worth tracking how much of Starr's primary push is his own pre-existing PAC capital.
-- Elect Virginia Stapleton (SD-11): $10,000 from Oregon Trial Lawyers Association PAC — single largest direct PAC check into a watchlist legislative race this period.
-- Friends of Paul Evans (HD-20): $11,272 in PAC money across 4 sources (Trial Lawyers $5,272; Corrections PAC, Oregon Soft Drink PAC, PERS Retirees) — a textbook incumbent-Democrat coalition.
+- HD 22 (Munoz): $2,500 from Myrna for Oregon PAC (Portland) — Portland-based candidate committee picking sides in the open Salem-area Democratic race.
+- HD 22 (Munoz): $1,000 from Friends of Cristian PAC (Portland) — second Portland Latino-aligned candidate committee backing Munoz; filed 22 days after the May 20 transaction.
+- HD 21 (Mannix): $500 from V & R Management LLC (Keizer) — small but notable as Mannix's only meaningful contribution this week.
 
 **💸 Expenditures**
-- Elect Virginia Stapleton: $33,172 across three vendors (Polity Staffing $13,840 payroll; Pendulum Creative $10K; Mission Control $9,332) — Stapleton's spend exceeded her receipts by ~$26K, suggesting reserve burn.
-- Friends of Beth Jones (HD-17): $14,354 to VB Consulting (93% of all spend) — heavy single-vendor concentration; see Flags.
+- Lesly Munoz for Oregon: $5,202 to Polity Staffing LLC (payroll) — by far the biggest watchlist legislative expense; signals Munoz is running a staffed operation, not a volunteer shop.
+- Friends of Anna Scharf: $600 to Roth's Catering — back-dated April 10 expense surfacing now.
+
+*Caucus PAC accumulation:* Friends of Em Levy (Portland) took in $6,500 from three committee sources including Friends of Ben Bowman ($2,500) and Oregon Health Care Association PAC ($2,500). Below the $50K threshold but worth tracking — Levy's committee is a plausible conduit into competitive metro-area legislative races.
 
 ---
 
 #### 🏘 Local
 
 **💰 Contributions**
-- **Friends of Julie Hoy (Salem Mayor): $34,375 — including $21,800 from Oregon Realtors PAC ($13K + $8.8K) and $4,500 from Marion Polk First PAC.** Hoy's week was overwhelmingly an organized-PAC operation, not grassroots; the Realtors split into two same-day filings is unusual.
-- Friends of Deanna Gwyn (Salem Ward 4): $7,225 across just 3 transactions — high average gift size for a ward race, worth identifying the donors.
-- Colm Willis for Oregon (Marion County Commissioner Pos. 2): $4,250 over 6 transactions — steady incumbent-style fundraising.
-- Friends of Chris Cummings (Salem Ward 8): $3,925 across 4 transactions — leads Ward 8 over Micki Varney ($1,075) this period.
-- Vanessa Nordyke for Mayor: $2,450 from 7 small transactions — a different fundraising profile from Hoy's PAC-heavy haul.
+- Marion County Commissioner Pos. 2 (Willis): $1,000 from Willamette Valley Vineyards (Turner) — major Marion County employer betting on the Republican incumbent-track candidate.
+- Marion County Commissioner Pos. 2 (Willis): $1,000 from Heather Eagon (Portland) — out-of-county individual money matching the corporate gift.
+- Marion County Commissioner Pos. 2 (Willis): $700 in sub-$100 cash contributions on a single day (Jun 10) — points to a fundraiser event; total Willis week was $4,150 across 8 transactions.
+- Marion County Commissioner Pos. 1 (Duncan): $500 from Larry Kleinman (Woodburn) — longtime PCUN-affiliated labor organizer; only meaningful contribution to Duncan this week, transaction dated May 22 but filed Jun 8.
+- Marion County Commissioner Pos. 2 (Willis): $250 each from Salem-area donors Patricia Harri, Parviz Samiee (The Shutterbug), and Sublimity's Vincent Brand — small-dollar local base visible.
 
 **💸 Expenditures**
-- Friends of Julie Hoy: $14,600 to PNW Strategies — consultant payment timed with the PAC inflows; the Hoy operation is consultant-driven.
-- Linda Nishioka for Salem (Ward 2): $5,844 to Morel Ink — 100% of her spend on print; see Flags.
-- Betsy Vega (Salem Ward 6): $4,032 in expenditures against just $640 raised — net negative week; check cash on hand.
+- Friends of Sara Duncan: $3,426 to Polity Staffing LLC (payroll) — same vendor as Munoz; Duncan is also running a staffed campaign despite minimal new fundraising this week.
+- Committee to Elect Carlos Barrientos: $1,050 reimbursed to the candidate himself across two transactions — 93% of all committee spending this period flowed back to Barrientos personally.
+- Vanessa Nordyke for Mayor: $374 to Scale-to-Win (phone/text banking) plus $374 to Progressive Salem — small but indicates the Nordyke mayoral campaign is moving into voter contact.
 
 ---
 
 #### 🚩 Flags & Anomalies
 
-**Large donations (≥$5,000) hitting watchlist races:**
-- $165,000 Don H. Jones, Jr. → Drazan
-- $50,000 Gunderson Marine → Drazan
-- $50,000 Centene Management → Kotek
-- $25,000 Wilson Joint Trust (ID) → Drazan
-- $25,000 Nancy Nathanson committee → Future PAC
-- $16,830 Ben West for Oregon → Right to Vote on the Gas Tax PAC
-- $15,000 + $10,000 + $5,000 Boshart Davis → Drazan (three checks in one week)
+**Large donations (≥ $5,000) — watchlist-relevant:**
+- $10,000 Brent Hutchings → Friends of Christine Drazan (statewide, covered above).
+- Several six-figure non-watchlist flows dominate the period: Community Safety Coalition moved $112K to IP 1PDX2026; East County Rising Action Fund made seven separate contributions totaling $230K to Community Budgeting for All 2026; JATV Property LLC put $40K into Hermiston for Opportunity. All Portland-metro or eastern Oregon — none directly hitting our jurisdiction.
 
-**Out-of-state money (≥$1,000) to watchlist:**
-- $50K Centene (MO) → Kotek
-- $25K Wilson Joint Trust (ID) → Drazan
-- $10K American Advancement Inc. (MD) → Dudley
-- $10K Altria Client Services (VA) → Starr Leadership Fund (which then routed $10K to HD-18 Starr)
-- $5K Avista Corp (WA) → Drazan
-- $5K Robyn Dillon (WA) → Dudley
+**Late filers (≥ 25 days lag):**
+- Six East County Rising Action Fund contributions to Community Budgeting for All 2026, totaling $180,000, were filed 153–250 days late (transactions Oct 2025 – Jan 2026). Significant disclosure violation outside our jurisdiction but worth noting.
+- Oregon Financial Services Association PAC filed a cluster of small expenditures stretching back to October 2022 (1,319-day lag) — looks like a long-overdue bookkeeping cleanup.
+- Friends of Cristian → Munoz ($1,000, 22-day lag) and Myrna for Oregon → Munoz ($2,500, 15-day lag) are within the standard 30-day window but approaching the tighter 7-day pre-election rule that kicks in soon.
+- Andrew J Rosales Commissioner Election Committee: $144 Staples expense, 204-day lag.
 
-**Vendor concentration (single vendor ≥60% of committee spend):**
-- VB Consulting Inc — 93% of Friends of Beth Jones (HD-17) spend ($14,354 / $15,421)
-- Morel Ink — 100% of Linda Nishioka for Salem (Ward 2) spend ($5,844 / $5,848)
-- Wix — 96% of Dave for Salem (Ward 4)
-- Anedot — 100% of Friends of Chris Cummings (Ward 8)
+**Employer clusters:** No watchlist clusters; six clusters all feed non-watchlist statewide PACs (IBEW 48, ORLAPAC, etc.).
 
-**Employer cluster of local interest:**
-- 8 donors from Premiere Property Group LLC and 3 from eXp Realty → Oregon Realtors PAC, the same PAC that sent $21,800 to Julie Hoy this week. Worth tracing the pipeline.
-- 6 donors from Salem-Keizer School District 24j → OEA-PAC.
+**Vendor concentration:** Committee to Elect Carlos Barrientos (Polk Co. Commissioner Pos. 3) — 93% of period spending ($1,050 of $1,130) paid to candidate Carlos Barrientos himself, split between a cash expenditure and an in-kind/forgiven personal expense. Worth scrutinizing whether documentation supports the reimbursements.
 
-**Late filers:** 20 transactions filed ≥25 days late, including a $514 Minuteman Press expenditure carrying a 3,291-day lag (Bob Niemeyer Campaign, original txn May 2017) and an 818-day-lag Clackamas Strong filing. None directly hit Marion/Polk/Salem watchlist races, but the volume of stale filings statewide is notable as the primary nears.
+**Out-of-state contributions:** None hit watchlist committees this period. Largest national flows went to statewide PACs (Oregon Neighborhood Store Association PAC drew $19K+ from out-of-state beverage and tobacco companies).
+
+**Large non-individual contributions:** Already covered above; no non-individual contribution ≥ $5,000 landed in a watchlist committee.
 
 ---
 
 #### 🧵 Threads to Pull
 
-1. **The Oregon Realtors–Julie Hoy pipeline.** The Realtors PAC sent $21,800 to Hoy in two transactions and is itself receiving clusters of small donations from Premiere Property Group, eXp Realty, and Coldwell Banker Coast agents. Marion Polk First PAC kicked in another $4,500 to Hoy and just received $20,000 from "Marion+Polk First Action." Worth mapping the full real-estate-industry funding stack into the Salem mayor's race.
-2. **Bryan Starr's leadership-fund self-funding.** $10,000 of Starr's $12,500 HD-18 haul this week came from his own Starr Leadership Fund, which itself just received $10K from Altria (Virginia). Trace how much tobacco/out-of-state corporate money is being laundered through the leadership PAC into the candidate committee.
-3. **Future PAC's $58K caucus accumulation.** Five Democratic legislator committees moved money into the House Builders caucus PAC in a single week. Given the Willamette Valley contributor geography, Marion/Polk-area Democrats (Evans HD-20, Andersen HD-19, Legaspi/Munoz HD-22) are likely beneficiaries — watch Future PAC's outgoing expenditures over the next two weeks.
+1. **Who is moving Portland Latino-PAC money into HD 22?** Myrna for Oregon ($2,500) and Friends of Cristian ($1,000) both hit Munoz the same week, both transactions dated late May and filed together June 11. Worth identifying the donors behind those PACs and whether they are coordinating support in the Salem-area open seat.
+2. **Willamette Valley Vineyards' $1,000 to Colm Willis.** Turner-based corporate donor to a sitting Marion County commissioner candidate — any pending county land-use, agritourism, or permitting issues affecting the donor? Check commission agendas.
+3. **Barrientos campaign reimbursements.** $1,050 of $1,130 in expenditures went straight back to the candidate, including a $517 "in-kind/forgiven personal expenditure." Request itemization and ask whether C&E filings include receipts.
 
 ---
 
 #### ⚙️ Data Notes
-
-Transaction date and filed date can differ; the 7-day filing window applies in this final 6-week pre-election stretch, but several stale filings predating that window appeared this week (see Flags). The "Dudley for Oregon" committee appears in both legislative-summary and local-summary blocks of the source data due to tagging — it is a statewide gubernatorial committee, treated as such here. PAC-into-PAC transfers (e.g., Starr Leadership Fund → Bryan Starr) can mean money already counted at one stage is routed to a second committee within the same week; treat aggregate "PAC dollars" with that caveat.
+Filed-date window: Jun 5–12, 2026; some transactions are from May (e.g., the Munoz PAC contributions dated May 20 and May 27 were filed Jun 11). The 7-day filing window for the final six weeks before an election is not yet in effect this period. Friends of Cristian PAC (ID 24854) is newly visible — recommend adding to watchlist if it makes additional HD 22 contributions. Community Budgeting for All 2026 and IP 1PDX2026 are Portland-metro initiative committees dominating statewide dollar volume but not in our jurisdiction.
