@@ -1,84 +1,78 @@
 ---
-### OREGON CAMPAIGN FINANCE — Marion County / Polk County / Salem — Jun 11, 2026 – Jun 18, 2026
+### OREGON CAMPAIGN FINANCE — Marion County / Polk County / Salem — Jun 13, 2026 – Jun 20, 2026
 
-**Christine Drazan's gubernatorial committee swept in roughly $148K in a single week — including two $10,000 checks from a single Salem couple — while local Salem and county races barely registered a pulse.**
+**Tracy Cramer's Senate District 11 bid drew $5,500 in PAC seed money from Republican caucus and construction-industry sources, the only meaningful PAC-into-watchlist flow this week as local races stayed nearly dormant.**
 
 ---
 
 #### 🏛 Statewide
-*Drazan's haul dominates the week's dollar volume, but it's a statewide race; the Salem angle is the local money in it.*
 
 **💰 Contributions**
-- Friends of Christine Drazan: $75,000 from Derrick Luksch (South Beach, O'Brien Dental Lab) — single largest watchlist contribution of the week.
-- Friends of Christine Drazan: $40,000 from Columbia Distributing (Portland) — beer/beverage distributor stakes a major bet in the governor's race.
-- Friends of Christine Drazan: $10,000 each from Brian K. and Katherine Johnston of Salem — a $20K combined household contribution from a single Salem address worth a closer look at the donors' local ties.
+- Friends of Christine Drazan: **$75,000** from Derrick Luksch (South Beach, O'Brien Dental Lab) — a single individual donation larger than any Salem-area committee has raised all cycle; Oregon's no-limits regime on display.
+- Friends of Christine Drazan: **$40,000 each** from Columbia Distributing and U.S. Distributing — beverage wholesalers doubling down on the Republican nominee while the soft-drink/beverage PACs went the other way.
+- Friends of Tina Kotek: **$20,000 each** from Oregon Beverage PAC and Oregon Soft Drink PAC — the beverage industry is hedging both sides of the governor's race in the same week.
 
 **💸 Expenditures**
-- Friends of Christine Drazan → JBurke Communications LLC: $4,070 for "communications consulting, airfare, hotel, car service" — bundled travel-and-consulting line item invites itemization questions.
+- Friends of Tina Kotek → GBAO: **$68,579** combined (travel + cash expenditure) — the Democratic polling/strategy firm is now Kotek's single largest vendor.
 
 ---
 
 #### 🗳 Legislative
 
-**💰 Contributions**
-- HD 22 (Lesly Munoz): $2,500 from Myrna for Oregon PAC and $1,000 from Friends of Cristian PAC — both Portland-based candidate committees passing money into the Salem-area House race; first PAC flows of the cycle for Munoz.
-- HD 21 (Kevin Mannix): $1,500 from Kevin L. Mannix P.C. (the candidate's own Salem law firm) plus $500 from Enterprise Holdings PAC (St. Louis) — self-funding paired with a national rental-car PAC.
-- SD 10 (Deb Patterson): $500 from CS for OR PAC (Portland) — modest but the only PAC into the Senate 10 race this week; otherwise small-dollar driven (24 individual transactions totaling $5,011).
-- **Caucus accumulation watch:** Friends of Rob Wagner (Senate President; not on watchlist) pulled in **$45,500 from 11 PACs in a single day (Jun 14)** — health care, hospitals, realtors, auto dealers, credit unions, OBI, AGC, bankers, forest industries. Wagner's caucus PAC posture matters for SD 10 (Patterson); expect downstream deployment into Marion County legislative races.
+**💰 Contributions** *(lead: PAC flows)*
+- **Tracy Cramer PAC (SD 11):** $5,500 in PAC money — $3,500 from The Leadership Fund (Independence-based GOP leadership PAC) and $2,000 from AGC Committee for Action (Associated General Contractors). First visible institutional support of the cycle for Cramer; signals Republican caucus is treating SD 11 as a target seat.
+- **Caucus accumulation watch — Friends of Rob Wagner: $45,500 from 11 committees** (Senate President; not on watchlist but adjacent). Healthcare ($20K from OHCA + Hospital PAC), realtors, auto dealers, OBI, AGC, credit unions, bankers, forest industries all chipped in on the same day (Jun 14). Wagner's war chest typically backstops Senate Democrats — money that could land in SD 10 (Patterson) if it tightens.
+- **Friends of Deb Patterson (SD 10):** $5,011 across 24 small contributions — grassroots-only week, no institutional money matching Cramer's haul.
 
 **💸 Expenditures**
-- Friends of Deb Patterson → Polity Staffing LLC: $7,079 payroll — largest legislative expenditure of the week; campaign staffing up.
-- Lesly Munoz for Oregon → Polity Staffing LLC: $5,202 payroll — same vendor as Patterson, suggesting shared back-office infrastructure across Democratic Marion County legislative campaigns.
-- Mannix for Oregon PAC → Rilie Ashby: $5,000 in two salary payments — see vendor concentration flag below.
+- Tracy Cramer PAC → Intisar Strategies LLC: **$7,365** — consulting spend roughly matching the PAC money just received; worth watching what Intisar produces.
+- Friends of Deb Patterson → Polity Staffing LLC: **$7,079** payroll — Patterson is already running a staffed operation.
+- Mannix for Oregon PAC → Rilie Ashby: **$5,000** in two salary payments — see Flags; one person accounts for 98% of Mannix's spend.
 
 ---
 
 #### 🏘 Local
-*Almost nothing moved this week.*
+
+Local committees were essentially dark this week. Combined watchlist local contributions totaled under $1,000.
 
 **💰 Contributions**
-- Marion County Commissioner Pos. 2 (Colm Willis): $680 across 4 small donations, top item $250 from Parviz Samiee (The Shutterbug, Salem).
-- Polk County Commissioner Pos. 2 (John Swanson): $450 across 3 small transactions.
-- Salem Mayor (Vanessa Nordyke): $110 from 2 donors — campaign essentially dormant on the intake side.
+- Committee to Elect John Swanson (Polk County Commissioner Pos. 2): **$450** across 3 contributions — the most active local committee this period, which says more about the period than the campaign.
+- Colm Willis for Oregon (Marion County Commissioner Pos. 2): **$330** in 3 contributions.
+- Vanessa Nordyke for Mayor (Salem): **$110**, two contributions; spent more ($550) than she raised.
+- Friends of Mai Vang (Salem Ward 6): **$56** raised, $312 spent.
+- Friends of Chris Cummings (Ward 8) and Betsy for Salem (Ward 6): zero contributions, small administrative spending only.
 
-**💸 Expenditures**
-- Vanessa Nordyke for Mayor → Progressive Salem PAC: $500 — candidate-to-PAC transfer worth flagging; Nordyke's committee sent more to a local PAC than it took in this week.
-- Betsy for Salem (Ward 6): $132 — only activity on the council race.
+*No expenditures section — nothing above routine maintenance.*
 
 ---
 
 #### 🚩 Flags & Anomalies
 
-**Large donations (≥ $5K) touching the watchlist:**
-- $75,000 Derrick Luksch → Drazan
-- $40,000 Columbia Distributing → Drazan
-- $10,000 each Brian K. and Katherine Johnston (Salem) → Drazan
+**Large donations (≥ $5,000)** — Beyond the statewide items above, notable non-watchlist activity: **Portland Police Association → Community Safety Coalition: $300,000**, which then routed **$228,596 to IP 1PDX2026** (a Portland ballot measure vehicle) the same day — a textbook pass-through worth flagging even outside our jurisdiction. City of Portland Small Donor Elections paid out **$50,000 each** to two Portland council candidates (public financing match).
 
-**Vendor concentration:**
-- Mannix for Oregon PAC: 98% of all spending ($5,000 of $5,100) went to one payee, Rilie Ashby, for salary across two payments. Effectively a one-employee committee this period.
+**Late filers (≥ 25 days lag)** — OEA-PAC filed a batch of **442-day-late contributions from April 2025**, including a $1,373 miscellaneous bundle and dozens of small individual donations from school district employees. The transactions are small but the systemic lag at a major labor PAC is a compliance story in itself.
 
-**Late filers (≥ 25 days):**
-- OEA-PAC filed a large batch of April 2025 small-donor contributions in mid-June 2026 — lags of 439–442 days on dozens of transactions, several totaling over $1,000 (e.g., $1,904 and $1,373 in miscellaneous cash). Worth asking ORESTAR/OEA why a year-plus of small payroll-deduction contributions posted in one tranche.
-- Oregon Financial Services Association PAC filed expenditures dating to October 2022 (1,319-day lag) — small dollar but extreme lag.
+**Employer clusters** — Local 48 Electricians PAC continues massive payroll-deduction fundraising (634 donors from Oeg Inc alone). For our area: **94 donors from Salem-Keizer School District 24J gave $1,289 to OEA-PAC** — the only Salem-area employer cluster.
 
-**Employer clusters (OEA-PAC payroll deductions):** 15 school district/community college employer clusters reported, including 94 donors from Salem-Keizer SD 24J ($1,289), 36 from Chemeketa CC ($448), and 47 from Greater Albany SD 8J ($585) — all flowing into OEA-PAC. Local educator dollars are pooling statewide; watch where OEA-PAC redeploys them into SD 10 / HD 21 / HD 22 / HD 23.
+**Vendor concentration** — **Mannix for Oregon PAC: 98% of expenditures ($5,000 of $5,100) went to a single payee, Rilie Ashby**, for salary. Worth a closer look at the staffing structure.
 
-**Out-of-state ≥ $1,000:** Twenty entries this period; none direct to watchlist committees, but several land in Friends of Rob Wagner (Earnin, MN8 Energy, GeoToll) and Friends of Julie Fahey (Pepsico $10K, UP Railroad $1K) — both caucus-leadership accumulators.
+**Out-of-state money** — Kotek pulled in $10K from NextEra (FL), $10K from J. David Page (Tacoma), $5K each from UnitedHealth and American Clean Power Association (both DC), plus smaller CA/NM donors. **Falck USA (Orange, CA) gave $5,000 to Marion Polk First PAC** — a non-watchlist local PAC; Falck is a private ambulance operator and this is worth tracking given Marion County EMS contracting.
 
-**Large non-individual contributions touching Salem area:** Columbia Distributing $40K → Drazan; Oregon Realtors PAC (Salem-based) $5K → Wagner.
+**Large non-individual contributions** — covered above; beverage industry split between Drazan and Kotek is the cleanest pattern.
 
 ---
 
 #### 🧵 Threads to Pull
-1. **Who are Brian K. and Katherine Johnston of Salem?** A $20,000 combined household check to a gubernatorial candidate from a single Salem address is unusual; identify employer/business interests and whether they appear in other Oregon committees this cycle.
-2. **Polity Staffing LLC** is now payrolling both Patterson (SD 10) and Munoz (HD 22) — same vendor across two Marion County Democratic legislative campaigns in the same week ($12,281 combined). Who runs it, and is it a coordinated caucus operation?
-3. **Rob Wagner's $45,500 PAC haul in one day** — eleven business and trade-association PACs hit the Senate President's committee simultaneously on June 14. Track whether that money flows back out to SD 10 (Patterson) or other watchlist districts in the coming weeks.
+
+1. **Who is Intisar Strategies, and what is Tracy Cramer buying?** $7,365 to a single consultant in the same week she received her first $5,500 in caucus PAC money. The Leadership Fund + AGC backing this early is a tell that SD 11 is on the Republican target list — confirm with caucus leadership and check Cramer's prior cycle vendor list.
+2. **Falck USA's $5,000 to Marion Polk First PAC.** A California ambulance company giving to a local-issues PAC in Marion/Polk deserves a phone call — what is Marion Polk First spending on, and does it touch EMS franchise or county service-contract decisions?
+3. **Rob Wagner's $45,500 one-day institutional haul.** Eleven business and healthcare PACs filed contributions on the same day (Jun 14). This is a coordinated fundraiser, not organic. Identify the host, then watch whether Wagner transfers any of it toward SD 10 (Patterson) as that race develops.
 
 ---
 
 #### ⚙️ Data Notes
-- Transactions are indexed by filed date; the Myrna for Oregon and Friends of Cristian PAC contributions to Munoz both occurred in late May but only posted June 11 (15–22 day lag, within Oregon's 30-day window).
-- We are not yet inside the 7-day accelerated filing window before an election, so 1–4 week reporting lags remain legal and common.
-- OEA-PAC's batched April 2025 filings (440+ day lag) are anomalous and may reflect a system or reporting backlog rather than typical practice — flagged but not characterized.
-- "Friends of Rob Wagner" and "Friends of Julie Fahey" are not on the watchlist but warrant addition given accumulation activity affecting watchlist districts.
----
+
+- Transaction-to-filing lag can run up to 30 days (7 days in the final six weeks before an election); some June "activity" reflects late-May transactions, and the OEA-PAC late filings (442 days) materially distort the period's small-donor counts.
+- We are not yet in the 7-day window, so filings dated this week may understate actual recent activity.
+- Caucus accumulation totals reflect committee-to-committee transfers only; they do not include individual or business contributions to those same PACs.
+- Local watchlist activity was unusually quiet — typical for mid-June of a non-primary, non-general window — and should not be read as campaign inactivity overall.
